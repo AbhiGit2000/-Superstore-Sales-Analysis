@@ -1,0 +1,794 @@
+﻿Customer_ID,Customer_Name,Segment,Region
+CG-12520,Claire Gute,Consumer,South
+DV-13045,Claire Gute,Consumer,South
+SO-20335,Darrin Van Huff,Corporate,West
+BH-11710,Sean O'Donnell,Consumer,South
+AA-10480,Sean O'Donnell,Consumer,South
+IM-15070,Brosina Hoffman,Consumer,West
+HP-14815,Brosina Hoffman,Consumer,West
+PK-19075,Brosina Hoffman,Consumer,West
+AG-10270,Brosina Hoffman,Consumer,West
+ZD-21925,Brosina Hoffman,Consumer,West
+KB-16585,Brosina Hoffman,Consumer,West
+SF-20065,Brosina Hoffman,Consumer,West
+EB-13870,Andrew Allen,Consumer,South
+EH-13945,Irene Maddox,Consumer,West
+TB-21520,Harold Pawlan,Home Office,Central
+MA-17560,Harold Pawlan,Home Office,Central
+GH-14485,Pete Kriz,Consumer,Central
+SN-20710,Alejandro Grove,Consumer,West
+LC-16930,Zuschuss Donatelli,Consumer,West
+RA-19885,Zuschuss Donatelli,Consumer,West
+ES-14080,Zuschuss Donatelli,Consumer,West
+ON-18715,Ken Black,Corporate,Central
+PO-18865,Ken Black,Corporate,Central
+LH-16900,Sandra Flanagan,Consumer,East
+DP-13000,Emily Burns,Consumer,West
+JM-15265,Eric Hoffmann,Consumer,West
+TB-21055,Eric Hoffmann,Consumer,West
+KM-16720,Tracy Blumstein,Consumer,East
+PS-18970,Tracy Blumstein,Consumer,East
+BS-11590,Tracy Blumstein,Consumer,East
+KD-16270,Tracy Blumstein,Consumer,East
+HM-14980,Tracy Blumstein,Consumer,East
+JE-15745,Tracy Blumstein,Consumer,East
+KB-16600,Tracy Blumstein,Consumer,East
+SC-20770,Matt Abelman,Home Office,Central
+DN-13690,Gene Hale,Corporate,Central
+JC-16105,Gene Hale,Corporate,Central
+CS-12400,Steve Nguyen,Home Office,Central
+PG-18895,Steve Nguyen,Home Office,Central
+GM-14455,Steve Nguyen,Home Office,Central
+JS-15685,Steve Nguyen,Home Office,Central
+KB-16315,Linda Cazamias,Corporate,Central
+RB-19705,Ruben Ausman,Corporate,West
+PN-18775,Erin Smith,Corporate,South
+KD-16345,Odella Nelson,Corporate,Central
+ER-13855,Odella Nelson,Corporate,Central
+RB-19465,Patrick O'Donnell,Consumer,Central
+GZ-14470,Lena Hernandez,Consumer,East
+LC-16870,Lena Hernandez,Consumer,East
+JM-15250,Darren Powers,Consumer,Central
+PA-19060,Darren Powers,Consumer,Central
+CV-12805,Darren Powers,Consumer,Central
+CL-12565,Darren Powers,Consumer,Central
+RC-19960,Janet Molinari,Corporate,East
+DK-13090,Janet Molinari,Corporate,East
+GG-14650,Ted Butterfield,Consumer,East
+SC-20725,Ted Butterfield,Consumer,East
+AD-10180,Ted Butterfield,Consumer,East
+PF-19165,Ted Butterfield,Consumer,East
+TS-21610,Ted Butterfield,Consumer,East
+LS-16975,Ted Butterfield,Consumer,East
+DW-13585,Ted Butterfield,Consumer,East
+LC-16885,Kunst Miller,Consumer,West
+JD-15895,Kunst Miller,Consumer,West
+SH-19975,Kunst Miller,Consumer,West
+SG-20080,Kunst Miller,Consumer,West
+HA-14920,Paul Stevenson,Home Office,Central
+MG-17680,Brendan Sweed,Corporate,West
+JE-16165,Brendan Sweed,Corporate,West
+TW-21025,Karen Daniels,Consumer,South
+SP-20650,Henry MacAllister,Consumer,East
+NK-18490,Tracy Blumstein,Consumer,Central
+DB-13060,Joel Eaton,Consumer,South
+NP-18670,Joel Eaton,Consumer,South
+TT-21070,Joel Eaton,Consumer,South
+EM-13960,Ken Brennan,Corporate,Central
+RD-19900,Ken Brennan,Corporate,Central
+MJ-17740,Ken Brennan,Corporate,Central
+BM-11140,Joel Eaton,Consumer,Central
+CS-12130,Stewart Carmichael,Corporate,South
+JB-15400,Stewart Carmichael,Corporate,South
+SJ-20500,Duane Noonan,Consumer,West
+JK-15640,Duane Noonan,Consumer,West
+DK-13150,Julie Creighton,Corporate,South
+RM-19675,Christopher Schild,Home Office,Central
+SK-19990,Patrick O'Donnell,Consumer,South
+FM-14290,Paul Gonzalez,Consumer,Central
+AM-10360,Paul Gonzalez,Consumer,Central
+MP-17470,Gary Mitchum,Home Office,Central
+MZ-17515,Jim Sink,Corporate,West
+CB-12025,Jim Sink,Corporate,West
+VM-21685,Jim Sink,Corporate,West
+FH-14365,Karl Braun,Consumer,Central
+MB-17305,Karl Braun,Consumer,Central
+BS-11755,Karl Braun,Consumer,Central
+LC-17140,Roger Barcio,Home Office,West
+HK-14890,Parhena Norris,Home Office,East
+LE-16810,Katherine Ducich,Consumer,West
+JH-15985,Elpida Rittenbach,Corporate,Central
+MS-17980,Rick Bensley,Home Office,Central
+VW-21775,Rick Bensley,Home Office,Central
+JH-15910,Rick Bensley,Home Office,Central
+JB-15925,Gary Zandusky,Consumer,Central
+DS-13180,Lena Cacioppo,Consumer,West
+VD-21670,Lena Cacioppo,Consumer,West
+EA-14035,Lena Cacioppo,Consumer,West
+DB-13120,Janet Martin,Consumer,South
+KL-16645,Janet Martin,Consumer,South
+DW-13480,Janet Martin,Consumer,South
+LH-17155,Pete Armstrong,Home Office,Central
+KC-16540,Cynthia Voltz,Corporate,East
+DL-13315,Clay Ludtke,Consumer,Central
+DR-12880,Clay Ludtke,Consumer,Central
+CC-12670,Ryan Crowe,Consumer,East
+Dl-13600,Ryan Crowe,Consumer,East
+SB-20290,Ryan Crowe,Consumer,East
+RC-19825,Ryan Crowe,Consumer,East
+AH-10210,Dave Kipp,Consumer,West
+CB-12535,Greg Guthrie,Corporate,South
+CA-12310,Steven Cartwright,Consumer,East
+KH-16690,Steven Cartwright,Consumer,East
+BB-10990,Steven Cartwright,Consumer,East
+AG-10495,Steven Cartwright,Consumer,East
+JO-15280,Steven Cartwright,Consumer,East
+AH-10195,Alan Dominguez,Home Office,Central
+NZ-18565,Philip Fox,Consumer,Central
+KL-16555,Troy Staebel,Consumer,West
+AS-10225,Troy Staebel,Consumer,West
+CR-12625,Lindsay Shagiari,Home Office,West
+SH-20395,Lindsay Shagiari,Home Office,West
+BP-11185,Dorothy Wardle,Corporate,East
+TS-21205,Dorothy Wardle,Corporate,East
+AG-10525,Dorothy Wardle,Corporate,East
+SP-20860,Lena Creighton,Consumer,West
+NM-18445,Lena Creighton,Consumer,West
+FA-14230,Lena Creighton,Consumer,West
+GK-14620,Lena Creighton,Consumer,West
+DJ-13510,Lena Creighton,Consumer,West
+PO-18850,Lena Creighton,Consumer,West
+JL-15850,Lena Creighton,Consumer,West
+DB-13615,Jonathan Doherty,Corporate,East
+AC-10420,Sally Hughsby,Corporate,West
+CC-12550,Sally Hughsby,Corporate,West
+TD-20995,Sally Hughsby,Corporate,West
+AB-10060,Sandra Glassco,Consumer,Central
+JL-15505,Helen Andreada,Consumer,West
+VB-21745,Maureen Gastineau,Home Office,East
+KW-16435,Justin Ellison,Corporate,Central
+JD-16060,Justin Ellison,Corporate,Central
+MK-17905,Justin Ellison,Corporate,Central
+GT-14755,Justin Ellison,Corporate,Central
+AG-10900,Tamara Willingham,Home Office,West
+MM-18280,Tamara Willingham,Home Office,West
+AR-10405,Stephanie Phelps,Corporate,West
+RA-19915,Stephanie Phelps,Corporate,West
+AS-10285,Stephanie Phelps,Corporate,West
+LA-16780,Neil Knudson,Home Office,West
+DO-13435,Dave Brooks,Consumer,West
+DK-13225,Nora Paige,Consumer,Central
+NG-18430,Nora Paige,Consumer,Central
+MV-18190,Ted Trevino,Consumer,West
+JG-15115,Eric Murdock,Consumer,East
+BP-11095,Ruben Dartt,Consumer,West
+VP-21730,Max Jones,Consumer,West
+SS-20140,Becky Martin,Consumer,Central
+AG-10675,Becky Martin,Consumer,Central
+LF-17185,Becky Martin,Consumer,Central
+RF-19840,Becky Martin,Consumer,Central
+KH-16510,Becky Martin,Consumer,Central
+KC-16675,Becky Martin,Consumer,Central
+CJ-12010,Becky Martin,Consumer,Central
+PB-19150,Chad Sievert,Consumer,West
+MP-17965,Chad Sievert,Consumer,West
+NF-18385,Chad Sievert,Consumer,West
+SD-20485,Jennifer Braxton,Corporate,Central
+KH-16630,Jennifer Braxton,Corporate,Central
+RB-19795,Shirley Jackson,Consumer,Central
+MK-18160,Joel Eaton,Consumer,East
+PO-19180,Joel Eaton,Consumer,East
+BB-11545,Jim Kriz,Home Office,East
+TB-21595,David Kendrick,Corporate,Central
+RB-19360,David Kendrick,Corporate,Central
+EB-13705,Robert Marley,Home Office,South
+SC-20095,Robert Marley,Home Office,South
+TN-21040,Robert Marley,Home Office,South
+JS-15940,Sally Knutson,Consumer,East
+MH-17785,Frank Merwin,Home Office,West
+JP-15520,Alice McCarthy,Corporate,Central
+JE-15475,Alice McCarthy,Corporate,Central
+JG-15805,Mark Packer,Home Office,East
+XP-21865,Mark Packer,Home Office,East
+EM-14065,Mark Packer,Home Office,East
+MT-18070,Mark Packer,Home Office,East
+SA-20830,Mark Packer,Home Office,East
+CW-11905,Mary Zewe,Corporate,West
+AJ-10960,Cassandra Brandow,Consumer,East
+SS-20590,Cassandra Brandow,Consumer,East
+RO-19780,Valerie Mitchum,Home Office,East
+MD-17350,Fred Hopkins,Corporate,East
+MY-17380,Fred Hopkins,Corporate,East
+CM-12385,Maria Bertelson,Consumer,East
+LS-17245,Bruce Stewart,Consumer,West
+BN-11515,Bruce Stewart,Consumer,West
+DB-13210,Logan Currie,Consumer,Central
+MC-17605,Heather Kirkland,Corporate,South
+BD-11605,Laurel Elliston,Consumer,West
+PH-18790,Joseph Holt,Consumer,Central
+MG-18145,Joseph Holt,Consumer,Central
+KB-16240,Joseph Holt,Consumer,Central
+JC-15340,Joseph Holt,Consumer,Central
+RL-19615,Joseph Holt,Consumer,Central
+AA-10375,Michael Stewart,Corporate,Central
+EP-13915,Victoria Wilson,Corporate,East
+DK-12985,Victoria Wilson,Corporate,East
+BD-11500,Victoria Wilson,Corporate,East
+LM-17065,Victoria Wilson,Corporate,East
+AS-10135,Victoria Wilson,Corporate,East
+BD-11320,Jonathan Howell,Consumer,West
+GT-14710,Jonathan Howell,Consumer,West
+AJ-10945,Joni Blumstein,Consumer,East
+OT-18730,Joni Blumstein,Consumer,East
+LP-17080,Joni Blumstein,Consumer,East
+CA-12775,Joni Blumstein,Consumer,East
+JF-15490,Joni Blumstein,Consumer,East
+FP-14320,Joni Blumstein,Consumer,East
+EB-13840,David Smith,Corporate,Central
+JF-15415,David Smith,Corporate,Central
+SF-20200,David Smith,Corporate,Central
+TG-21640,Valerie Dominguez,Consumer,South
+CS-11950,Valerie Dominguez,Consumer,South
+CC-12145,Erin Ashbrook,Corporate,South
+DV-13465,Christopher Schild,Home Office,South
+BD-11725,Christopher Schild,Home Office,South
+ZC-21910,Christopher Schild,Home Office,South
+MS-17830,Christopher Schild,Home Office,South
+LR-16915,Christopher Schild,Home Office,South
+TP-21130,David Bremer,Corporate,West
+CK-12205,Ken Lonsdale,Consumer,Central
+AS-10240,Ken Lonsdale,Consumer,Central
+AR-10510,Ken Lonsdale,Consumer,Central
+NB-18655,Ken Lonsdale,Consumer,Central
+GD-14590,Ken Lonsdale,Consumer,Central
+CK-12595,Ken Lonsdale,Consumer,Central
+NG-18355,Ken Lonsdale,Consumer,Central
+CA-12265,Dianna Wilson,Home Office,Central
+SF-20965,Dianna Wilson,Home Office,Central
+MO-17800,Dianna Wilson,Home Office,Central
+AT-10735,Dianna Wilson,Home Office,Central
+FM-14380,Dianna Wilson,Home Office,Central
+DJ-13420,Logan Haushalter,Consumer,West
+ME-17725,Kelly Collister,Consumer,West
+JD-16150,Kelly Collister,Consumer,West
+JL-15835,Delfina Latchford,Consumer,East
+SC-20305,Delfina Latchford,Consumer,East
+CC-12430,Dan Reichenbach,Corporate,Central
+AR-10825,Dan Reichenbach,Corporate,Central
+SR-20740,Dan Reichenbach,Corporate,Central
+CR-12730,Dan Reichenbach,Corporate,Central
+EH-14125,Craig Carreira,Consumer,East
+SP-20545,Craig Carreira,Consumer,East
+TH-21235,Craig Carreira,Consumer,East
+RP-19390,Dorris liebe,Corporate,Central
+RB-19570,Sean Braxton,Corporate,Central
+CD-11980,Sean Braxton,Corporate,Central
+DJ-13630,Roy Collins,Consumer,Central
+GT-14635,Alan Hwang,Consumer,West
+MC-17845,Claudia Bergmann,Corporate,South
+RA-19285,Paul Gonzalez,Consumer,East
+NP-18325,Christine Abelman,Corporate,East
+AB-10165,Christine Abelman,Corporate,East
+JO-15550,Kristen Hastings,Corporate,West
+JK-15370,Helen Andreada,Consumer,West
+BN-11470,Helen Andreada,Consumer,West
+DP-13165,Helen Andreada,Consumer,West
+TH-21550,Barry Blumstein,Corporate,West
+AP-10915,Barry Blumstein,Corporate,West
+RS-19765,Andrew Gjertsen,Corporate,East
+SV-20365,Andrew Gjertsen,Corporate,East
+CK-12325,Andrew Gjertsen,Corporate,East
+RD-19810,Andrew Gjertsen,Corporate,East
+MR-17545,Steven Cartwright,Consumer,Central
+SC-20695,Steven Cartwright,Consumer,Central
+JF-15355,Jas O'Carroll,Consumer,West
+EG-13900,Tracy Blumstein,Consumer,West
+DS-13030,Tracy Blumstein,Consumer,West
+PO-19195,Tracy Blumstein,Consumer,West
+SS-20875,Alan Haines,Corporate,South
+PB-19105,Alan Haines,Corporate,South
+RF-19735,Alan Haines,Corporate,South
+YC-21895,Nick Zandusky,Home Office,East
+DC-13285,Nick Zandusky,Home Office,East
+CP-12340,Nick Zandusky,Home Office,East
+BF-11020,Nick Zandusky,Home Office,East
+LH-17020,Kelly Lampkin,Corporate,West
+CS-12250,Kelly Lampkin,Corporate,West
+AJ-10795,Kelly Lampkin,Corporate,West
+BV-11245,Kelly Lampkin,Corporate,West
+DL-12865,Kelly Lampkin,Corporate,West
+BM-11785,Jonathan Doherty,Corporate,East
+LT-17110,Jonathan Doherty,Corporate,East
+JK-15730,Jonathan Doherty,Corporate,East
+ES-14020,Jonathan Doherty,Corporate,East
+RH-19495,Jonathan Doherty,Corporate,East
+CD-11920,Jonathan Howell,Consumer,Central
+HW-14935,Alan Schoenberger,Corporate,East
+MC-18130,Ken Brennan,Corporate,Central
+GM-14440,Corey Roper,Home Office,East
+PJ-19015,Corey Roper,Home Office,East
+BW-11110,Shahid Hopkins,Consumer,South
+TR-21325,Ben Peterman,Corporate,West
+PG-18820,Ben Peterman,Corporate,West
+JL-15175,Ben Peterman,Corporate,West
+BM-11650,Ben Peterman,Corporate,West
+EM-14095,Thomas Seio,Corporate,East
+AF-10885,Andy Gerbode,Corporate,South
+GA-14725,Andy Gerbode,Corporate,South
+CK-12760,Sung Pak,Corporate,East
+DP-13105,Nathan Mautz,Home Office,East
+BK-11260,Nathan Mautz,Home Office,East
+SJ-20125,Nathan Mautz,Home Office,East
+CM-12445,Nathan Mautz,Home Office,East
+AJ-10780,Nathan Mautz,Home Office,East
+LS-16945,Frank Atkinson,Corporate,West
+GP-14740,Grace Kelly,Corporate,West
+PK-18910,Grace Kelly,Corporate,West
+SM-20005,Don Jones,Corporate,South
+AG-10765,Patrick O'Brill,Consumer,East
+PM-19135,Patrick O'Brill,Consumer,East
+LL-16840,Patrick O'Brill,Consumer,East
+JS-15595,Patrick O'Brill,Consumer,East
+EL-13735,Patrick O'Brill,Consumer,East
+PC-18745,John Lucas,Consumer,East
+HL-15040,John Lucas,Consumer,East
+MS-17365,John Lucas,Consumer,East
+GB-14530,Doug Bickford,Consumer,West
+JR-16210,Doug Bickford,Consumer,West
+BE-11335,Doug Bickford,Consumer,West
+SC-20050,Alyssa Crouse,Corporate,West
+RW-19630,Alyssa Crouse,Corporate,West
+SE-20110,Ken Lonsdale,Consumer,West
+AH-10075,Jonathan Doherty,Corporate,East
+JM-15535,Jonathan Doherty,Corporate,East
+JJ-15760,Jonathan Doherty,Corporate,East
+RK-19300,Jonathan Doherty,Corporate,East
+CG-12040,Chad Sievert,Consumer,Central
+RP-19270,Clay Cheatham,Consumer,West
+KC-16255,Tamara Dahlen,Consumer,East
+KH-16360,Tamara Dahlen,Consumer,East
+GH-14665,Tamara Dahlen,Consumer,East
+SW-20275,Adam Bellavance,Home Office,East
+JA-15970,Adam Bellavance,Home Office,East
+DL-12925,Adam Bellavance,Home Office,East
+LW-16990,Adam Bellavance,Home Office,East
+TB-21190,Adam Bellavance,Home Office,East
+BS-11800,Jeremy Lonsdale,Consumer,East
+RW-19690,Jeremy Lonsdale,Consumer,East
+TZ-21580,Jeremy Lonsdale,Consumer,East
+AS-10630,Jeremy Lonsdale,Consumer,East
+TS-21340,Heather Kirkland,Corporate,South
+SL-20155,Victoria Brennan,Corporate,South
+MW-18235,Victoria Brennan,Corporate,South
+RD-19585,Katrina Willman,Consumer,East
+RA-19945,Katrina Willman,Consumer,East
+MT-17815,Katrina Willman,Consumer,East
+VG-21790,Katrina Willman,Consumer,East
+JS-15880,Julia Dunbar,Consumer,West
+KM-16225,Michael Kennedy,Corporate,East
+HR-14770,Michael Kennedy,Corporate,East
+DE-13255,Michael Kennedy,Corporate,East
+AG-10390,Michael Kennedy,Corporate,East
+JJ-15445,Guy Thornton,Consumer,Central
+JH-15430,Guy Thornton,Consumer,Central
+RD-19660,Arthur Gainer,Consumer,West
+MO-17500,Arthur Gainer,Consumer,West
+NS-18640,Arthur Gainer,Consumer,West
+DG-13300,Arthur Gainer,Consumer,West
+NF-18595,Muhammed MacIntyre,Corporate,Central
+MG-17650,Allen Rosenblatt,Corporate,East
+TS-21160,Russell Applegate,Consumer,Central
+BD-11620,Russell Applegate,Consumer,Central
+CM-12160,Russell Applegate,Consumer,Central
+SN-20560,Alejandro Savely,Corporate,West
+EH-14005,Alejandro Savely,Corporate,West
+FO-14305,Laura Armstrong,Corporate,Central
+MS-17710,Denny Ordway,Consumer,South
+CC-12100,Denny Ordway,Consumer,South
+DW-13540,Dean Katz,Corporate,East
+BT-11395,Dean Katz,Corporate,East
+CY-12745,Nathan Gelder,Consumer,East
+BT-11485,Mike Vittorini,Consumer,East
+PS-19045,Mike Vittorini,Consumer,East
+PV-18985,Jack Garza,Consumer,West
+NM-18520,Jack Garza,Consumer,West
+DL-13495,Bart Pistole,Corporate,Central
+CS-12355,Victor Preis,Home Office,West
+FH-14275,Saphhira Shifley,Corporate,East
+NC-18340,Saphhira Shifley,Corporate,East
+AA-10315,Harold Pawlan,Home Office,Central
+LT-16765,Anna Gayman,Consumer,Central
+AP-10720,Anna Gayman,Consumer,Central
+PM-18940,Anna Gayman,Consumer,Central
+AT-10435,Anna Gayman,Consumer,Central
+CA-12055,Luke Foster,Consumer,South
+HR-14830,Stephanie Phelps,Corporate,South
+BT-11530,Roy Französisch,Consumer,East
+LH-16750,Keith Herrera,Consumer,West
+SW-20755,Keith Herrera,Consumer,West
+SP-20620,Keith Herrera,Consumer,West
+BF-11170,Keith Herrera,Consumer,West
+KT-16480,Keith Herrera,Consumer,West
+BG-11695,Keith Herrera,Consumer,West
+GM-14680,Keith Herrera,Consumer,West
+EJ-14155,Keith Herrera,Consumer,West
+NP-18700,Keith Herrera,Consumer,West
+MH-18115,Kimberly Carter,Corporate,West
+JR-15700,Kimberly Carter,Corporate,West
+SM-20950,Caroline Jumper,Consumer,West
+CC-12220,Philip Brown,Consumer,West
+PF-19225,Victoria Brennan,Corporate,South
+DC-12850,Sung Pak,Corporate,West
+BD-11770,Sung Pak,Corporate,West
+GM-14500,Joel Eaton,Consumer,West
+TB-21355,Michael Paige,Corporate,East
+JH-16180,Michael Paige,Corporate,East
+EB-13975,Natalie Fritzler,Consumer,South
+QJ-19255,Janet Molinari,Corporate,Central
+TC-21535,Janet Molinari,Corporate,Central
+CS-12460,Shirley Daniels,Home Office,East
+HG-14965,Ken Heidel,Corporate,Central
+LW-16825,Ross Baird,Home Office,South
+MC-17575,Ross Baird,Home Office,South
+LP-17095,Ross Baird,Home Office,South
+EB-14170,Ross Baird,Home Office,South
+GZ-14545,Dave Brooks,Consumer,East
+CP-12085,Mike Kennedy,Consumer,South
+FG-14260,Mike Kennedy,Consumer,South
+LD-17005,Philisse Overcash,Home Office,Central
+AB-10255,Philisse Overcash,Home Office,Central
+MN-17935,Brenda Bowman,Corporate,Central
+JR-15670,Cynthia Voltz,Corporate,East
+JF-15190,Pete Kriz,Consumer,Central
+CM-12115,Pete Kriz,Consumer,Central
+AS-10045,Pete Kriz,Consumer,Central
+BP-11290,Pete Kriz,Consumer,Central
+ND-18370,Pete Kriz,Consumer,Central
+LB-16735,Pete Kriz,Consumer,Central
+KT-16465,Troy Blackwell,Consumer,Central
+HM-14860,Raymond Buch,Consumer,East
+AB-10600,Raymond Buch,Consumer,East
+SZ-20035,Raymond Buch,Consumer,East
+MG-17890,Raymond Buch,Consumer,East
+JK-16120,Raymond Buch,Consumer,East
+PP-18955,Raymond Buch,Consumer,East
+YS-21880,Ed Braxton,Corporate,East
+KM-16375,Ed Braxton,Corporate,East
+AB-10105,Ken Heidel,Corporate,Central
+HA-14905,Sanjit Chand,Consumer,West
+BT-11305,Natalie Fritzler,Consumer,Central
+SV-20815,Natalie Fritzler,Consumer,Central
+RW-19540,Joseph Holt,Consumer,West
+DK-12835,Joseph Holt,Consumer,West
+ST-20530,Joseph Holt,Consumer,West
+MM-17920,Tanja Norvell,Home Office,West
+PW-19030,Tanja Norvell,Home Office,West
+SC-20440,Tanja Norvell,Home Office,West
+TS-21085,Tanja Norvell,Home Office,West
+MC-17425,Tanja Norvell,Home Office,West
+ME-17320,Joni Sundaresam,Home Office,Central
+NH-18610,David Smith,Corporate,Central
+MB-18085,Craig Carreira,Consumer,Central
+KD-16495,Maya Herman,Corporate,East
+KN-16390,Jeremy Pistek,Consumer,West
+NP-18685,Jeremy Pistek,Consumer,West
+CS-12505,Jeremy Pistek,Consumer,West
+MS-17770,Jeremy Pistek,Consumer,West
+CM-12655,Jeremy Pistek,Consumer,West
+Co-12640,Jeremy Pistek,Consumer,West
+TS-21370,Kristen Hastings,Corporate,West
+JW-15220,Jeremy Ellison,Consumer,East
+JD-15790,John Grady,Corporate,East
+PC-19000,John Grady,Corporate,East
+AR-10540,Xylona Preis,Consumer,West
+AI-10855,Erin Mull,Consumer,East
+TB-21400,Erin Mull,Consumer,East
+PL-18925,Michelle Tran,Home Office,West
+GH-14425,Michelle Tran,Home Office,West
+MP-18175,Michelle Tran,Home Office,West
+JM-15655,Sue Ann Reed,Consumer,Central
+CL-11890,Carl Weiss,Home Office,Central
+DB-13270,Carl Weiss,Home Office,Central
+IG-15085,Carl Weiss,Home Office,Central
+BO-11425,Astrea Jones,Consumer,East
+AB-10150,Astrea Jones,Consumer,East
+JW-16075,Sonia Sunley,Consumer,West
+EB-13750,Rose O'Brian,Consumer,South
+SG-20470,Maribeth Dona,Consumer,South
+CM-12190,Sanjit Chand,Consumer,West
+AW-10840,Sanjit Chand,Consumer,West
+MC-18100,Sanjit Chand,Consumer,West
+TT-21460,Sanjit Chand,Consumer,West
+VG-21805,Maribeth Yedwab,Corporate,West
+MY-18295,Maribeth Yedwab,Corporate,West
+RD-19480,Maribeth Yedwab,Corporate,West
+DP-13390,Maribeth Yedwab,Corporate,West
+ML-17395,Maribeth Yedwab,Corporate,West
+JC-15385,Ed Braxton,Corporate,East
+JG-15160,Christopher Martinez,Consumer,South
+MC-17275,Christopher Martinez,Consumer,South
+NW-18400,Christopher Martinez,Consumer,South
+TB-21280,Christopher Martinez,Consumer,South
+BS-11380,Lynn Smith,Consumer,Central
+HH-15010,Lynn Smith,Consumer,Central
+CD-12280,Luke Foster,Consumer,East
+TH-21100,Bradley Nguyen,Consumer,West
+MM-18055,Bradley Nguyen,Consumer,West
+NS-18505,Alan Dominguez,Home Office,West
+RB-19645,Alan Dominguez,Home Office,West
+SW-20455,Alan Dominguez,Home Office,West
+EB-13930,Alan Dominguez,Home Office,West
+PS-18760,Dean Braden,Consumer,Central
+HF-14995,Dean Braden,Consumer,Central
+HZ-14950,Dean Braden,Consumer,Central
+CD-12790,Matt Connell,Corporate,Central
+JK-15205,Logan Haushalter,Consumer,West
+FM-14215,Logan Haushalter,Consumer,West
+ED-13885,Brian Dahlen,Consumer,East
+DA-13450,Patricia Hirasaki,Home Office,South
+JW-15955,Patricia Hirasaki,Home Office,South
+RM-19375,Mike Gockenbach,Consumer,East
+ML-17755,Mike Gockenbach,Consumer,East
+CC-12685,Mike Gockenbach,Consumer,East
+JE-15610,Karen Bern,Corporate,West
+RP-19855,Jasper Cacioppo,Consumer,West
+TB-21175,Rob Lucas,Consumer,South
+BE-11455,Rob Lucas,Consumer,South
+JF-15565,Allen Armold,Consumer,West
+PB-19210,Emily Phan,Consumer,Central
+BT-11680,Mark Packer,Home Office,East
+JL-15235,Darren Koutras,Consumer,South
+CH-12070,Darren Koutras,Consumer,South
+ND-18460,Bradley Drucker,Consumer,Central
+BF-10975,Erin Smith,Corporate,West
+KH-16330,Liz MacKendrick,Consumer,East
+GW-14605,Paul Gonzalez,Consumer,Central
+NC-18625,Paul Gonzalez,Consumer,Central
+ME-18010,Paul Gonzalez,Consumer,Central
+BP-11230,Adrian Shami,Home Office,East
+JC-15775,Adrian Shami,Home Office,East
+AS-10090,Dean Katz,Corporate,Central
+AC-10450,Dean Katz,Corporate,Central
+MD-17860,Dean Katz,Corporate,Central
+DB-13660,Bill Donatelli,Consumer,West
+EH-13990,Ryan Crowe,Consumer,South
+EH-13765,Greg Tran,Consumer,Central
+SC-20230,Dean Katz,Corporate,West
+JE-15715,Ashley Jarboe,Consumer,South
+AC-10615,Olvera Toch,Consumer,West
+JD-16015,Olvera Toch,Consumer,West
+CB-12415,Olvera Toch,Consumer,West
+JS-16030,Liz Pelletier,Consumer,West
+LW-17215,Liz Pelletier,Consumer,West
+SC-20800,Cynthia Arntzen,Consumer,South
+AM-10705,Cynthia Arntzen,Consumer,South
+RH-19510,Jeremy Farry,Consumer,West
+CT-11995,Jeremy Farry,Consumer,West
+MC-17590,Frank Preis,Consumer,West
+CC-12610,Ellis Ballard,Corporate,West
+KA-16525,Ellis Ballard,Corporate,West
+TC-20980,Ellis Ballard,Corporate,West
+BF-11080,Ellis Ballard,Corporate,West
+MM-17260,Jennifer Ferguson,Consumer,East
+AH-10120,Jennifer Ferguson,Consumer,East
+BW-11200,Jennifer Ferguson,Consumer,East
+SW-20245,Jennifer Ferguson,Consumer,East
+BS-11665,Sarah Foster,Consumer,West
+RF-19345,Trudy Glocke,Consumer,West
+WB-21850,Trudy Glocke,Consumer,West
+TB-21625,Trudy Glocke,Consumer,West
+AF-10870,Carlos Soltero,Consumer,Central
+RB-19435,Carlos Soltero,Consumer,Central
+KF-16285,Charles Crestani,Consumer,West
+JH-15820,Dianna Vittorini,Consumer,West
+IL-15100,Dianna Vittorini,Consumer,West
+PB-18805,Dianna Vittorini,Consumer,West
+RH-19600,Dianna Vittorini,Consumer,West
+AW-10930,Dianna Vittorini,Consumer,West
+ML-17410,Bruce Degenhardt,Consumer,South
+DB-13555,Bruce Degenhardt,Consumer,South
+MH-17620,Zuschuss Carroll,Consumer,West
+DK-13375,Zuschuss Carroll,Consumer,West
+BT-11440,Zuschuss Carroll,Consumer,West
+DB-13405,Zuschuss Carroll,Consumer,West
+TG-21310,Melanie Seite,Consumer,Central
+BF-11005,Melanie Seite,Consumer,Central
+JM-16195,Lena Radford,Consumer,West
+MZ-17335,Lena Radford,Consumer,West
+MW-18220,Lena Radford,Consumer,West
+MV-17485,Lena Radford,Consumer,West
+SM-20320,Theone Pippenger,Consumer,East
+TP-21415,Chloris Kastensmidt,Consumer,East
+JK-15625,Chloris Kastensmidt,Consumer,East
+PJ-18835,Chloris Kastensmidt,Consumer,East
+RS-19420,Alan Shonely,Consumer,South
+SV-20935,Alan Shonely,Consumer,South
+BC-11125,Alan Shonely,Consumer,South
+EM-13825,Alan Shonely,Consumer,South
+BM-11575,Alan Shonely,Consumer,South
+KN-16705,Andrew Roberts,Consumer,East
+KW-16570,Andrew Roberts,Consumer,East
+SC-20260,Andrew Roberts,Consumer,East
+CV-12295,Nona Balk,Corporate,Central
+SG-20605,Nona Balk,Corporate,Central
+TM-21010,Giulietta Dortch,Corporate,East
+EM-13810,Giulietta Dortch,Corporate,East
+ML-18040,Clytie Kelty,Consumer,East
+CR-12580,Clytie Kelty,Consumer,East
+AZ-10750,Nat Gilpin,Corporate,East
+PW-19240,Nat Gilpin,Corporate,East
+SC-20380,Nat Gilpin,Corporate,East
+CM-11935,Nat Gilpin,Corporate,East
+GM-14695,Nat Gilpin,Corporate,East
+TB-21250,Christina Anderson,Consumer,Central
+JM-15865,Sylvia Foulston,Corporate,Central
+SC-20575,Sylvia Foulston,Corporate,Central
+LS-17200,Sylvia Foulston,Corporate,Central
+RR-19315,Sylvia Foulston,Corporate,Central
+DB-12910,Meg O'Connel,Home Office,East
+TT-21220,Annie Thurman,Consumer,West
+LO-17170,Logan Currie,Consumer,West
+KD-16615,Logan Currie,Consumer,West
+NB-18580,Fred McMath,Consumer,West
+BD-11635,Fred McMath,Consumer,West
+CM-12235,Fred McMath,Consumer,West
+EN-13780,Brian Dahlen,Consumer,South
+KN-16450,Brian Dahlen,Consumer,South
+BO-11350,Denny Joy,Corporate,South
+AG-10300,Max Engle,Consumer,West
+MC-17635,Max Engle,Consumer,West
+TA-21385,Rick Bensley,Home Office,West
+JF-15295,Rick Bensley,Home Office,West
+TT-21265,Justin Deggeller,Corporate,Central
+SB-20170,John Lee,Consumer,West
+CL-12700,John Lee,Consumer,West
+HG-15025,Sean Christensen,Consumer,Central
+NL-18310,Tamara Willingham,Home Office,East
+RR-19525,Chuck Clark,Home Office,Central
+TC-21295,Barry Blumstein,Corporate,West
+SV-20785,Barry Blumstein,Corporate,West
+BE-11410,Anthony Rawles,Corporate,West
+SC-20680,Anthony Rawles,Corporate,West
+DF-13135,Anthony Rawles,Corporate,West
+FH-14350,Steven Roelle,Home Office,East
+MS-17530,Allen Rosenblatt,Corporate,East
+RH-19555,Allen Rosenblatt,Corporate,East
+GA-14515,Craig Reiter,Consumer,East
+JP-16135,Craig Reiter,Consumer,East
+Dp-13240,Craig Reiter,Consumer,East
+MO-17950,Eugene Hildebrand,Home Office,Central
+DL-13330,Eugene Hildebrand,Home Office,Central
+MH-18025,Cassandra Brandow,Consumer,Central
+DR-12940,Cassandra Brandow,Consumer,Central
+DM-13015,Cassandra Brandow,Consumer,Central
+CA-11965,Cassandra Brandow,Consumer,Central
+AC-10660,Sibella Parks,Corporate,East
+DM-13345,Roy Collins,Consumer,South
+VF-21715,Tiffany House,Corporate,Central
+CC-12370,Tiffany House,Corporate,Central
+BF-11275,Tiffany House,Corporate,Central
+HG-14845,Resi Pölking,Consumer,East
+BP-11155,Meg O'Connel,Home Office,Central
+EM-14140,Meg O'Connel,Home Office,Central
+MA-17995,Meg O'Connel,Home Office,Central
+AY-10555,Tamara Dahlen,Consumer,Central
+GB-14575,Rob Beeghly,Consumer,Central
+JB-16045,Rob Beeghly,Consumer,Central
+MG-17875,Rob Beeghly,Consumer,Central
+SR-20425,Carol Darley,Consumer,Central
+JB-16000,Carol Darley,Consumer,Central
+DM-12955,Carol Darley,Consumer,Central
+TC-21475,Carol Darley,Consumer,Central
+SW-20350,Doug Jacobs,Consumer,East
+RE-19450,Doug Jacobs,Consumer,East
+BF-11215,Doug Jacobs,Consumer,East
+KB-16405,Grant Thornton,Corporate,South
+JG-15310,Grant Thornton,Corporate,South
+EC-14050,Michael Chen,Consumer,South
+EB-14110,Michael Chen,Consumer,South
+JP-15460,Michael Chen,Consumer,South
+CS-11845,Ralph Arnett,Consumer,East
+GH-14410,Naresj Patel,Consumer,South
+PT-19090,Naresj Patel,Consumer,South
+JL-15130,Naresj Patel,Consumer,South
+AH-10030,Alan Barnes,Consumer,West
+CC-12475,Alan Barnes,Consumer,West
+DW-13195,Jesus Ocampo,Home Office,East
+SJ-20215,Jesus Ocampo,Home Office,East
+BG-11740,Jesus Ocampo,Home Office,East
+LB-16795,Jesus Ocampo,Home Office,East
+CM-11815,Jesus Ocampo,Home Office,East
+EH-14185,Jesus Ocampo,Home Office,East
+TS-21505,Jesus Ocampo,Home Office,East
+PR-18880,Dorris liebe,Corporate,East
+LC-17050,Alejandro Savely,Corporate,West
+CS-12490,Jay Kimmel,Consumer,West
+DH-13075,Brad Norvell,Corporate,South
+JO-15145,Brad Norvell,Corporate,South
+AH-10690,Brad Norvell,Corporate,South
+HJ-14875,David Philippe,Consumer,East
+MH-17455,David Philippe,Consumer,East
+RD-19930,David Philippe,Consumer,East
+SC-20020,Tracy Hopkins,Home Office,East
+SU-20665,Arthur Prichep,Consumer,South
+FC-14335,Roland Schwarz,Corporate,East
+RB-19330,Roland Schwarz,Corporate,East
+NC-18535,Roland Schwarz,Corporate,East
+DB-12970,Dorris liebe,Corporate,West
+MF-17665,Seth Vernon,Consumer,East
+RM-19750,Kelly Collister,Consumer,East
+VM-21835,Christine Kargatis,Home Office,West
+EJ-13720,Christine Kargatis,Home Office,West
+NC-18415,Ross DeVincentis,Home Office,West
+LS-17230,Michael Paige,Corporate,Central
+KE-16420,Michael Paige,Corporate,Central
+DH-13675,Mathew Reese,Home Office,East
+PF-19120,Steve Chapman,Corporate,South
+VT-21700,Jay Fein,Consumer,Central
+MG-17695,Jay Fein,Consumer,Central
+SP-20920,Emily Grady,Consumer,East
+CS-12175,Emily Grady,Consumer,East
+DK-12895,Emily Grady,Consumer,East
+KM-16660,Emily Grady,Consumer,East
+AA-10645,Emily Grady,Consumer,East
+DD-13570,Darrin Sayre,Home Office,West
+AH-10465,Darrin Sayre,Home Office,West
+TP-21565,Darrin Sayre,Home Office,West
+EK-13795,Darrin Sayre,Home Office,West
+CR-12820,Darrin Sayre,Home Office,West
+SG-20890,Darrin Sayre,Home Office,West
+AH-10585,Gary Zandusky,Consumer,West
+NF-18475,Phillina Ober,Home Office,Central
+BS-11365,Phillina Ober,Home Office,Central
+SH-20635,Phillina Ober,Home Office,Central
+RD-19720,Sung Shariari,Consumer,Central
+AG-10330,Sung Shariari,Consumer,Central
+GR-14560,Sung Shariari,Consumer,Central
+VS-21820,Sung Shariari,Consumer,Central
+TM-21490,Maya Herman,Corporate,West
+TS-21430,Maya Herman,Corporate,West
+DB-13360,Peter Bühler,Consumer,Central
+NR-18550,Roland Fjeld,Consumer,Central
+CS-11860,Roland Fjeld,Consumer,Central
+MF-18250,Roland Fjeld,Consumer,Central
+LW-17125,Roland Fjeld,Consumer,Central
+AR-10345,Yoseph Carroll,Corporate,West
+KS-16300,Melanie Seite,Consumer,West
+AB-10015,Nona Balk,Corporate,South
+LR-17035,Debra Catini,Consumer,Central
+SS-20410,Debra Catini,Consumer,Central
+JM-15580,Christine Phan,Corporate,East
+JK-15325,Barry Französisch,Corporate,Central
+DM-13525,Andrew Roberts,Consumer,West
+ML-18265,Julie Creighton,Corporate,South
+MH-17290,Lisa Hazard,Consumer,East
+FC-14245,Chris Selesnick,Corporate,South
+TH-21115,Chris Selesnick,Corporate,South
+JK-16090,Chris Selesnick,Corporate,South
+SB-20185,Chris Selesnick,Corporate,South
+BG-11035,Chris Selesnick,Corporate,South
+BW-11065,Anthony Johnson,Corporate,South
+MG-18205,Laurel Elliston,Consumer,South
+DO-13645,Benjamin Venier,Corporate,Central
+BP-11050,Benjamin Venier,Corporate,Central
+TS-21655,Benjamin Venier,Corporate,Central
+EM-14200,Benjamin Venier,Corporate,Central
+AO-10810,Benjamin Venier,Corporate,Central
+MH-17440,Benjamin Venier,Corporate,Central
+SS-20515,Dan Lawera,Consumer,East
+LD-16855,Nick Zandusky,Home Office,West
+VP-21760,Nick Zandusky,Home Office,West
+TC-21145,Nick Zandusky,Home Office,West
+IM-15055,Nick Zandusky,Home Office,West
+AR-10570,Bryan Mills,Consumer,East
+CM-12715,Bryan Mills,Consumer,East
+FW-14395,Bryan Mills,Consumer,East
+LC-16960,Bryan Mills,Consumer,East
+HE-14800,Erin Ashbrook,Corporate,South
+BD-11560,Clay Ludtke,Consumer,West
+HD-14785,Liz Thompson,Consumer,West
+CJ-11875,Sue Ann Reed,Consumer,South
+RS-19870,Sue Ann Reed,Consumer,South
+SC-20845,Sue Ann Reed,Consumer,South
+RE-19405,Sue Ann Reed,Consumer,South
+SM-20905,Joe Kamberova,Consumer,South
