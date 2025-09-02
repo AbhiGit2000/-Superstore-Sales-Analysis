@@ -20,8 +20,8 @@ An end-to-end business intelligence project analyzing retail sales data using Po
 - Tables and Bookcases result in negative profits
 - High number of repeat customers shows strong loyalty
 
-## 📷 Dashboard Preview
-(Add screenshots or links here)
+## 📷 Dashboard 
+If the file is too large on github check out the google drive link here: https://drive.google.com/file/d/1qaVqTT1XCFDdXJEWWtgkuj7yZdjy1UJi/view?usp=sharing
 
 ## 🔍 Summary
 This project demonstrates end-to-end data analysis using real-world retail data: from writing SQL queries and cleaning data to creating a data model and producing executive-level dashboards.
