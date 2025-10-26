@@ -1,7 +1,11 @@
+
+--Creating Sales Table
 CREATE TABLE sales(Row_ID SERIAL,Order_ID VARCHAR(20),Order_Date DATE,Ship_Date DATE,
 Ship_Mode VARCHAR(50),Customer_ID VARCHAR(20),Country VARCHAR(50),City VARCHAR(50),State VARCHAR(50),Postal_Code INT,
-Product_ID VARCHAR(20),Sub_Category VARCHAR(50),Sales NUMERIC(10,2),Quantity INT,Discount NUMERIC(10,2),Profit NUMERIC(10,2));
+Product_ID VARCHAR(20),Sub_Category VARCHAR(50),Sales NUMERIC(10,2),Quantity INT,Discount NUMERIC(10,2),Profit NUMERIC(10,2));  
  
+
+--Importing Sales Table
 COPY
 sales(Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Country,City,State,Postal_Code,Product_ID,Sub_Category,Sales,Quantity,Discount,Profit)
 FROM 'C:\Users\DELL\Downloads\Sales Table Superstore.csv'
@@ -11,8 +15,10 @@ CSV HEADER;
 SELECT * FROM sales;
 
 
+--Creating Products Table
 CREATE TABLE products(Product_ID VARCHAR(20),Product_Name VARCHAR(500),Category VARCHAR(50));
 
+--Importing Products Table
 COPY
 products(Product_ID,Product_Name,Category)
 FROM 'C:\Users\DELL\Downloads\Products Table Superstore.csv'
@@ -21,9 +27,10 @@ CSV HEADER;
 
 SELECT * FROM products;
 
-
+--Creating Customers Table
 CREATE TABLE customers(Customer_ID VARCHAR(20),Customer_Name VARCHAR(30),Segment VARCHAR(20),Region VARCHAR(10));
 
+--Importing Customers Table
 COPY
 customers(Customer_ID, Customer_Name, Segment,Region)
 FROM 'C:\Users\DELL\Downloads\Customers Table Superstore.csv'
@@ -31,6 +38,63 @@ DELIMITER','
 CSV HEADER;
 
 SELECT * FROM customers;
+
+--Creating state_region_map
+CREATE TABLE state_region_map(State VARCHAR(50) PRIMARY KEY,Region VARCHAR(50));
+
+--Mapping State with Region
+INSERT INTO state_region_map (State, Region) VALUES
+('Kentucky', 'South'),
+('California', 'West'),
+('Florida', 'South'),
+('North Carolina', 'South'),
+('Washington', 'West'),
+('Texas', 'Central'),
+('Wisconsin', 'Central'),
+('Utah', 'West'),
+('Nebraska', 'Central'),
+('Pennsylvania', 'East'),
+('Illinois', 'Central'),
+('Minnesota', 'Central'),
+('Michigan', 'Central'),
+('Delaware', 'East'),
+('Indiana', 'Central'),
+('New York', 'East'),
+('Arizona', 'West'),
+('Virginia', 'South'),
+('Tennessee', 'South'),
+('Alabama', 'South'),
+('South Carolina', 'South'),
+('Oregon', 'West'),
+('Colorado', 'West'),
+('Iowa', 'Central'),
+('Ohio', 'Central'),
+('Missouri', 'Central'),
+('Oklahoma', 'Central'),
+('New Mexico', 'West'),
+('Louisiana', 'South'),
+('Connecticut', 'East'),
+('New Jersey', 'East'),
+('Massachusetts', 'East'),
+('Georgia', 'South'),
+('Nevada', 'West'),
+('Rhode Island', 'East'),
+('Mississippi', 'South'),
+('Arkansas', 'South'),
+('Montana', 'West'),
+('New Hampshire', 'East'),
+('Maryland', 'South'),
+('District of Columbia', 'South'),
+('Kansas', 'Central'),
+('Vermont', 'East'),
+('Maine', 'East'),
+('South Dakota', 'Central'),
+('Idaho', 'West'),
+('North Dakota', 'Central'),
+('Wyoming', 'West'),
+('West Virginia', 'South');
+
+SELECT * FROM state_region_map;
 
 --Count of Orders
 SELECT COUNT(DISTINCT(order_ID)) AS Total_orders
