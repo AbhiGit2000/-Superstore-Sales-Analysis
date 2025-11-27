@@ -1,49 +1,112 @@
-# Superstore Sales & Profitability Dashboard
+# Project Overview
 
-## Objective
-“To analyze Superstore sales and profit performance across regions, categories, and customer segments, identify operational challenges, and provide actionable recommendations to improve profitability.”
-
-
-## Project Overview
-"This Power BI project provides a comprehensive analysis of Superstore sales and profit performance, focusing on regions, categories, and customer segments. Instead of just highlighting top-performing areas, the dashboard identifies operational anomalies, recurring patterns, and areas impacting profitability, enabling actionable recommendations."
+This Power BI project delivers a comprehensive analysis of Sales, Profitability, Discounts, and Operational Performance across regions, product categories, and customer segments. The dashboard is designed not only to highlight top-performing areas but also to identify margin leakages, operational risks, and recurring performance issues to support data-driven decision-making.
 
 
-## Key Insights
 
-### **Overall Performance**
-- **Total Sales:** $2.3M | **Total Profit:** $286.4K | **Profit Margin:** 12.47% | **Average Discount:** 15.62%
-- **Technology** leads in profit margin; **Furniture** offers higher discounts with lower profitability.
-- **Sales and profit** have shown consistent year-over-year growth.
-- **Corporate segment** delivers the strongest profit margin.
-- **Top 3 High-Margin States:** District of Columbia, Delaware, Minnesota.
+# Business Questions Answered
 
-### **Detailed Findings**
-- **2014:** Negative margins across all categories in the **Central region** due to excessive discounts.  
-- **2017:** **Furniture category** again recorded losses in the **Home Office segment** — a recurring issue linked to high discounting.
-- **Office Supplies** drives the highest profit; **Furniture** shows high sales but low margins due to higher costs.
-- **Central region** has negative profit margin (-1.98%) with excessive discounting (28.35%) in Furniture & Consumer segments.
+This project was structured to answer the following business-critical questions:
 
+Which regions and states generate the highest profit margins?
 
-## Recommendations
-1. **Revisit discounting policies** in Furniture and Central region to reduce margin erosion.  
-2. **Optimize vendor and pricing strategy** to manage variable costs in Furniture.  
-3. **Focus on Technology and Corporate segments** to leverage high-margin performance.  
-4. **Implement discount-performance tracking** to identify early profit leaks.
+Which product categories drive revenue but erode profitability?
+
+How do discounts impact profit margins across segments?
+
+Which customer segments are most profitable?
+
+Are there recurring loss patterns across years, regions, or categories?
+
+Where should the business optimize pricing and discount strategies?
 
 
-## Tools & Techniques
-- **Power BI** for data visualization and dashboard design  
-- **SQL / Excel** for data cleaning and preprocessing  
-- **DAX** for calculated measures (YoY Growth, Profit Margin %, etc.)  
-- **Data Modeling** with dimension and fact tables (Region mapping, Segment, Category)
+# Key Metrics Analyzed
+
+Total Sales
+
+Total Profit
+
+Profit Margin (%)
+
+Average Discount (%)
+
+Year-over-Year Growth
+
+Regional & Segment Performance
 
 
-## Dashboard Preview
-https://drive.google.com/file/d/1oCW-dMWXaApeJW4U455ssaAkRel-sLcZ/view?usp=sharing
+### Key Business Insights
+
+## Overall Performance
+
+Total Sales: $2.3M
+
+Total Profit: $286.4K
+
+Profit Margin: 12.47%
+
+Average Discount: 15.62%
+
+The Technology category generates the strongest profit margins.
+
+The Furniture category shows high sales but poor profitability due to aggressive discounting.
+
+Sales and profits display consistent year-over-year growth trends.
+
+The Corporate segment delivers the highest margin stability.
+
+Top High-Margin States: District of Columbia, Delaware, Minnesota.
 
 
-## Key Learnings
-- Improved understanding of **business KPI analysis** using Power BI  
-- Experience in **data modeling, DAX calculations**, and **dashboard storytelling**  
-- Enhanced ability to translate data into actionable business insights  
+## Detailed Performance Findings
 
+2014: Central Region reported negative margins across all categories driven by excessive discounting.
+
+2017: Furniture losses reoccurred within the Home Office segment, indicating a repeated pricing issue.
+
+Office Supplies delivers the most consistent profitability.
+
+The Central Region experiences negative profit margin (-1.98%), particularly in Furniture and Consumer segments.
+
+High discounting in low-margin categories resulted in sustained profit erosion.
+
+
+## Business Recommendations
+
+Revise discounting strategy in Furniture and Central Region to prevent margin loss.
+
+Optimize vendor contracts and cost structures for Furniture products.
+
+Prioritize Technology and Corporate segments to maximize high-margin revenue streams.
+
+Implement discount-to-profit tracking as an early warning system for financial leakages.
+
+
+## Tools & Technologies
+
+Power BI – Dashboard development and data modeling
+
+SQL & Microsoft Excel – Data cleaning, transformation, and validation
+
+DAX – Advanced measures (YoY Growth, Profit Margin %, Discount Impact)
+
+Star Schema Data Modeling – Fact and dimension table architecture
+
+
+## Skills Demonstrated
+
+Advanced KPI development using DAX
+
+Business-oriented data storytelling
+
+Trend and anomaly detection
+
+Profitability and margin analysis
+
+Data modeling best practices
+
+
+## Project Impact
+
+This dashboard enables business stakeholders to quickly identify profitability risks, optimize pricing strategies, and prioritize high-performing segments, driving smarter and more profitable decisions.
